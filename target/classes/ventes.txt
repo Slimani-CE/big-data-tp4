@@ -1,0 +1,7 @@
+2019 rabat project1 5000
+2020 casablanca project2 6000
+2021 marrakech project3 7000
+2019 fes project4 8000
+2023 tanger project5 9000
+2020 fes project4 8000
+2019 fes project4 3000
